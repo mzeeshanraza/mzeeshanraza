@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Zeeshan Raza</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b> · Backend &amp; Full-Stack Architecture
+  <b>Senior Full-Stack Engineer</b> · Backend & Cloud Architecture
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ I have **4+ years** of experience building web applications that run in producti
 
 - 🏗️ Built a **custom learning platform** handling payments, enrollment flows, progress tracking and reporting dashboards
 - 🧾 Designed and shipped a **Laravel CRM** for client management, scheduling and invoicing
+- 🤖 Integrated **Generative AI features** into production applications
 - ⚡ Cut page load and server cost through **Redis caching, CDN configuration and query optimisation**
 - ☁️ Own my own infrastructure — **AWS Lightsail, CloudFront, Cloudflare, S3, Nginx, PM2**
 - 🔌 Comfortable integrating third-party APIs, webhooks and background jobs into existing systems
@@ -65,6 +66,10 @@ I have **4+ years** of experience building web applications that run in producti
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
 **Data & Caching**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -79,17 +84,6 @@ I have **4+ years** of experience building web applications that run in producti
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Selected Work
-
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [elib-apis](https://github.com/mzeeshanraza/elib-apis) | Type-safe service layer, validation and error handling on a real API surface | TypeScript · Node · Express |
-| [master_rest_api](https://github.com/mzeeshanraza/master_rest_api) | REST design: resource modelling, auth middleware, modular routing | Node · Express · MongoDB |
-| [mern-auth](https://github.com/mzeeshanraza/mern-auth) | Complete auth lifecycle — JWT issuance, refresh, protected routes, session handling | React · Redux Toolkit · Node · JWT |
-| [grocery-delivery-app-using-mern](https://github.com/mzeeshanraza/grocery-delivery-app-using-mern) | End-to-end product: cart, order state machine, admin operations | MERN Stack |
 
 ---
 
